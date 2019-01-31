@@ -3,7 +3,7 @@
 Let's get back to the rolling mantra. If the ball falls out or the time expires, you lose a life.
 
 Collect gems to unlock the exit  and earn extra balls.  Powergems are
-worth 5.  Quantum Gems are worth 10.  A ball is awarded for 100 coins.
+worth 5.  Quantum Gems are worth 10.  A ball is awarded for 100 gems.
 
 ## Release Notes
 
