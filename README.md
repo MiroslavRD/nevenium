@@ -1,10 +1,9 @@
-# Neverball
+# Nevenium
 
-Tilt the  floor to roll a  ball through an obstacle  course within the
-given  time.  If  the  ball falls  or time  expires, a ball is lost.
+Let's get back to the rolling mantra. If the ball falls out or the time expires, you lose a life.
 
-Collect coins to unlock the exit  and earn extra balls.  Red coins are
-worth 5.  Blue coins are worth 10.  A ball is awarded for 100 coins.
+Collect gems to unlock the exit  and earn extra balls.  Powergems are
+worth 5.  Quantum Gems are worth 10.  A ball is awarded for 100 coins.
 
 ## Release Notes
 
@@ -22,17 +21,17 @@ Release highlights can be found in [doc/release-notes.md](doc/release-notes.md).
 
 ## Resources
 
-* [Website](http://neverball.org/)
-* [Development](http://github.com/Neverball)
-* [Neverforum](http://neverforum.com/)
-* [Nevertable](http://table.nevercorner.net/) (high-score and replay
+* [Website](http://nevenium.net/)
+* [Development](http://github.com/NeveniumTeam)
+* [Neverforum](http://neveniphonium.tk/)
+* [Nevertable](http://scoreboards.neveniphonium.tk/) (high-score and replay
   database)
-* [#neverball on chat.freenode.net](http://webchat.freenode.net/)
+* [#nevenium on chat.freenode.net](http://webchat.freenode.net/)
 
 ## Translation
 
-Neverball uses the gettext approach to translations. We're always
+Nevenium uses the gettext approach to translations. We're always
 interested in covering more languages. We have a project on Transifex
 (see [instructions on the forum][tx]) and we also accept PO files.
 
-[tx]: http://neverforum.com/fmpbo/viewtopic.php?id=2741
+[tx]: http://neveniphonium.tk/translate
